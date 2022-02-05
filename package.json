@@ -1,0 +1,9 @@
+{
+	"name": "BalancedForegrips",
+	"author": "Original: Fershte | Update: Jiblet",
+	"version": "2.0.0",
+	"license": "NCSA Open Source",
+	"dependencies": {},
+	"akiVersion": "2.2.*",
+	"main": "package.js"
+}
