@@ -1,3 +1,5 @@
+Superceded by https://github.com/Jiblet/BalancePatch
+
 Tarkov balance is bad for a single player experience.
 Making sensible but not meta decisions for every part can quickly lead to a gun less than half as effective as a meta gun.
 I aim to change this.
